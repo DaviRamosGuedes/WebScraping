@@ -1,25 +1,141 @@
 [
-{"Título": "Agente de Atendimento (Vitória", "Empresa": "Omni", "Localização": "Vitória", "Data de Publicação": "16/10/2024"},
-{"Título": "Técnico Comercial de Seguros -Vitória", "Empresa": "PAMCARY", "Localização": "Vitória", "Data de Publicação": "17/10/2024"},
-{"Título": "Entrevistador Lse Multimídia -Vitória", "Empresa": "GI GROUP", "Localização": "Vitória", "Data de Publicação": "05/10/2024"},
-{"Título": "Auxiliar de Loja -Vitória", "Empresa": "Personale Consultoria de RH", "Localização": "Vitória", "Data de Publicação": "20/08/2024"},
-{"Título": "Auxiliar de Operações Laboratoriais", "Empresa": "Grupo Fleury", "Localização": "Vitória", "Data de Publicação": "23/09/2024"},
-{"Título": "Técnico de Laboratório", "Empresa": "Grupo Fleury", "Localização": "Vitória", "Data de Publicação": "23/09/2024"},
-{"Título": "Operador de Máquina Copiadora", "Empresa": "Ricoh do Brasil", "Localização": "Vitória", "Data de Publicação": "30/09/2024"},
-{"Título": "Operador de Máquina Copiadora", "Empresa": "Ricoh do Brasil", "Localização": "Vitória", "Data de Publicação": "01/10/2024"},
-{"Título": "Auxiliar de Serviços Gerais", "Empresa": "Grupo Fleury", "Localização": "Vitória", "Data de Publicação": "07/10/2024"},
-{"Título": "Operador de Atendimento I", "Empresa": "Grupo Fleury", "Localização": "Vitória", "Data de Publicação": "04/10/2024"},
-{"Título": "Assistente de Coleta II", "Empresa": "Grupo Fleury", "Localização": "Vitória", "Data de Publicação": "26/09/2024"},
-{"Título": "Assistente de Coleta II", "Empresa": "Grupo Fleury", "Localização": "Vitória", "Data de Publicação": "04/10/2024"},
-{"Título": "Operador de Máquina Copiadora", "Empresa": "Ricoh do Brasil", "Localização": "Vitória", "Data de Publicação": "04/10/2024"},
-{"Título": "Técnico Eletrotécnico - Pleno - Geradores de Energia", "Empresa": "Confidencial", "Localização": "Vitória", "Data de Publicação": "Há 7 dias"},
-{"Título": "Auxiliar Eletrotécnico Jr - Geradores de Energia", "Empresa": "Confidencial", "Localização": "Vitória", "Data de Publicação": "Há 7 dias"},
-{"Título": "Técnico de Refrigeração Pleno", "Empresa": "Confidencial", "Localização": "Vitória", "Data de Publicação": "Há 7 dias"},
-{"Título": "Técnico Mecânico Jr - Geradores de Energia", "Empresa": "Confidencial", "Localização": "Vitória", "Data de Publicação": "Há 7 dias"},
-{"Título": "Assistente Administrativo(a) - Autorização", "Empresa": "Oncoclínicas&Co", "Localização": "Vitória", "Data de Publicação": "Há 6 dias"},
-{"Título": "Especialista Laboratorial", "Empresa": "Grupo Fleury", "Localização": "Vitória", "Data de Publicação": "04/09/2024"},
-{"Título": "Programa de Estágio Technipfmc", "Empresa": "TechnipFMC", "Localização": "", "Data de Publicação": "01/01/2024"},
-{"Título": "Vendedor de Loja - Brasil (TEMPORÁRIO - Extra Natal)", "Empresa": "OSKLEN", "Localização": "", "Data de Publicação": "09/08/2024"},
-{"Título": "Caixa de Loja - Brasil (TEMPORÁRIO - Extra Natal)", "Empresa": "OSKLEN", "Localização": "", "Data de Publicação": "09/08/2024"},
-{"Título": "Estoquista de Loja - Temporário (EXTRA Natal)", "Empresa": "OSKLEN", "Localização": "", "Data de Publicação": "09/08/2024"}
+    {
+        "Título": "Agente de Atendimento (",
+        "Empresa": "Omni",
+        "Localização": "Vitória",
+        "Data de Publicação": "16/10/2024"
+    },
+    {
+        "Título": "Técnico Comercial de Seguros -",
+        "Empresa": "PAMCARY",
+        "Localização": "Vitória",
+        "Data de Publicação": "17/10/2024"
+    },
+    {
+        "Título": "Entrevistador Lse Multimídia -",
+        "Empresa": "GI GROUP",
+        "Localização": "Vitória",
+        "Data de Publicação": "05/10/2024"
+    },
+    {
+        "Título": "Operador de Máquina Copiadora",
+        "Empresa": "Ricoh do Brasil",
+        "Localização": "Vitória",
+        "Data de Publicação": "01/10/2024"
+    },
+    {
+        "Título": "Operador de Atendimento I",
+        "Empresa": "Grupo Fleury",
+        "Localização": "Vitória",
+        "Data de Publicação": "04/10/2024"
+    },
+    {
+        "Título": "Assistente de Coleta II",
+        "Empresa": "Grupo Fleury",
+        "Localização": "Vitória",
+        "Data de Publicação": "26/09/2024"
+    },
+    {
+        "Título": "Assistente de Coleta II",
+        "Empresa": "Grupo Fleury",
+        "Localização": "Vitória",
+        "Data de Publicação": "04/10/2024"
+    },
+    {
+        "Título": "Operador de Máquina Copiadora",
+        "Empresa": "Ricoh do Brasil",
+        "Localização": "Vitória",
+        "Data de Publicação": "04/10/2024"
+    },
+    {
+        "Título": "Auxiliar de Serviços Gerais",
+        "Empresa": "Grupo Fleury",
+        "Localização": "Vitória",
+        "Data de Publicação": "07/10/2024"
+    },
+    {
+        "Título": "Técnico Eletrotécnico - Pleno - Geradores de Energia",
+        "Empresa": "Confidencial",
+        "Localização": "Vitória",
+        "Data de Publicação": "23/10/2024"
+    },
+    {
+        "Título": "Auxiliar Eletrotécnico Jr - Geradores de Energia",
+        "Empresa": "Confidencial",
+        "Localização": "Vitória",
+        "Data de Publicação": "23/10/2024"
+    },
+    {
+        "Título": "Técnico de Refrigeração Pleno",
+        "Empresa": "Confidencial",
+        "Localização": "Vitória",
+        "Data de Publicação": "23/10/2024"
+    },
+    {
+        "Título": "Técnico Mecânico Jr - Geradores de Energia",
+        "Empresa": "Confidencial",
+        "Localização": "Vitória",
+        "Data de Publicação": "23/10/2024"
+    },
+    {
+        "Título": "Assistente Administrativo(a) - Autorização",
+        "Empresa": "Oncoclínicas&Co",
+        "Localização": "Vitória",
+        "Data de Publicação": "24/10/2024"
+    },
+    {
+        "Título": "Supervisor de Unidade",
+        "Empresa": "Grupo Fleury",
+        "Localização": "Vitória",
+        "Data de Publicação": "Ontem"
+    },
+    {
+        "Título": "Especialista Laboratorial",
+        "Empresa": "Grupo Fleury",
+        "Localização": "Vitória",
+        "Data de Publicação": "04/09/2024"
+    },
+    {
+        "Título": "Programa de Estágio Technipfmc",
+        "Empresa": "TechnipFMC",
+        "Localização": "",
+        "Data de Publicação": "01/01/2024"
+    },
+    {
+        "Título": "Vendedor de Loja - Brasil (TEMPORÁRIO - Extra Natal)",
+        "Empresa": "OSKLEN",
+        "Localização": "",
+        "Data de Publicação": "09/08/2024"
+    },
+    {
+        "Título": "Caixa de Loja - Brasil (TEMPORÁRIO - Extra Natal)",
+        "Empresa": "OSKLEN",
+        "Localização": "",
+        "Data de Publicação": "09/08/2024"
+    },
+    {
+        "Título": "Estoquista de Loja - Temporário (EXTRA Natal)",
+        "Empresa": "OSKLEN",
+        "Localização": "",
+        "Data de Publicação": "09/08/2024"
+    }
+][
+    {
+        "Título": "Programa de Estágio Technipfmc",
+        "Empresa": "TechnipFMC",
+        "Localização": "",
+        "Data de Publicação": "01/01/2024",
+        "Descrição": "<div class=\"job-tab-content job-description__text texto\" data-testid=\"JobDescription\">\n        <p><br><strong>Descrição</strong>:</p>\r\n<p>Descubra como a TechnipFMC está conduzindo a mudança na indústria de óleo e gás tradicional e de novas energias e faça parte do Programa de Estágio TechnipFMC.</p>\r\n<p>Nós somos os arquitetos da energia, conduzindo a mudança em nossa indústria. Somos um grande parceiro da indústria de energia e reforçamos nossa posição como uma empresa verdadeiramente sustentável. Os três pilares Ambiental, Social e Governança (ESG) conduzem nossas ambições.</p>\r\n<p>Na TechnipFMC, você é valorizado pelo que oferece. Sua voz importa e você é incentivado a ser você mesmo, crescer e alcançar seu potencial. O ambiente inclusivo e diverso impulsiona mudanças em nossa indústria. Nossos talentos, de 102 nacionalidades em 40 países, formam nosso espírito de equipe único. Você será inspirado a aprender e colaborar para criar a energia que o mundo precisa, enquanto se diverte. Nossa equipe desenvolve suas habilidades, avança em suas carreiras e prospera. </p>\r\n<p>Quer conduzir a mudança com a TechnipFMC?</p>\r\n<p> Inscreva-se!</p>\r\n<p> </p>\r\n<p><em><strong>REQUISITOS:</strong></em></p>\r\n<p>&gt;&gt; Cursando Ensino Superior em: Engenharia, Administração, Gestão de RH, Psicologia, Ciências Contábeis, Economia, Arquitetura, Direito, Tecnologia e áreas afins.</p>\r\n<p>&gt;&gt; Cursando ou Concluído Técnico em: Mecânica, Automação, Elétrica, Eletrônica, Eletrotécnica, Eletromecânica, Mecatrônica, Logística e áreas afins.</p>\r\n<p>&gt;&gt; Conclusão  prevista a partir de 2025</p>\r\n<p>&gt;&gt; Inglês a partir de Intermediário</p>\r\n<p><br>&gt;&gt;Disponibilidade para estagiar 6 hs diárias.</p>\r\n<p> </p>\r\n<p><strong><em>LOCALIDADES: </em></strong></p>\r\n<p> &gt;&gt; Rio/RJ – Cidade Nova, Pavuna, Ilha do Fundão;</p>\r\n<p> &gt;&gt; Macaé/RJ;</p>\r\n<p> &gt;&gt; Açu/RJ;</p>\r\n<p> &gt;&gt; Campos/RJ;</p>\r\n<p> &gt;&gt; Vitória/ES;</p>\r\n<p> &gt;&gt;Viana – ES.</p>\r\n<p> </p>\r\n<p><strong>BENEFÍCIOS</strong></p>\r\n<p>Remuneração compatível  com o mercado;</p>\r\n<p>Vale refeição ou refeitório no local dependendo da localidade. </p>\r\n<p>Assistência médica;</p>\r\n<p>Vale transporte.</p>\r\n<p> </p>\r\n<p> </p>\r\n<p><strong><em>SOFT SKILLS:</em></strong></p>\r\n<p> &gt;&gt; Flexibilidade de aprendizado;</p>\r\n<p>&gt;&gt; Trabalho em equipe;</p>\r\n<p>&gt;&gt;Comunicação.</p>\n      </div>",
+        "URL da Vaga": "https://www.vagas.com.br/vagas/v2570777/programa-de-estagio-technipfmc"
+    },
+    {
+        "Título": "Especialista Laboratorial",
+        "Empresa": "Grupo Fleury",
+        "Localização": "Vitória",
+        "Data de Publicação": "04/09/2024",
+        "Descrição": "<div class=\"job-tab-content job-description__text texto\" data-testid=\"JobDescription\">\n        <br><b>Descrição</b>: <p><strong>Quais são os desafios da área e do cargo:</strong></p><p>Esta pessoa será responsável por realizar o processamento das amostras colhidas, garantindo a integridade e a excelência técnica.</p><p>Fazemos uso da tecnologia e inovação para causar a movimentação que o mercado de saúde precisa, entregando um serviço de qualidade. Nosso propósito é cuidar das pessoas, e fazemos isso todos os dias. Se identifica com essa missão? Então, venha fazer parte de um time de excelência!</p><p><br></p><p><strong>Sobre a área: </strong></p><p>Seguir rigorosamente os procedimentos e normas de segurança e qualidade estabelecidos, garantindo a integridade das amostras e a precisão dos resultados. Gerenciar eficientemente o tempo para cumprir prazos de análises, realizar manutenções preventivas nos equipamentos e participar de treinamentos para aprimorar habilidades técnicas.</p><p><br></p><p>Colaborar com outros profissionais do setor técnico, para garantir uma abordagem integrada e eficaz nos cuidados com os pacientes. Manter um estoque adequado de reagentes, consumíveis e equipamentos, garantindo que não faltem recursos essenciais para o funcionamento do laboratório.</p><p><br></p><p><strong>Principais atividades: </strong></p><p>Executar os procedimentos analíticos da rotina diária conforme descrição de acordo com os procedimentos operacionais padrão;</p><p>Realizar e orientar a execução, interpretação e liberação de exames de acordo com as normas técnicas;</p><p>Auxiliar na gestão do cumprimento de prazos conforme sinalização da cadeia de custódia por meio do acompanhamento de relatórios de pendência;</p><p>Realizar o acompanhamento dos processos relacionados ao controle interno e externo da qualidade para garantir adequação às normas e legislações vigentes;</p><p>Acompanhar o desempenho dos equipamentos e seus respectivos testes, com base em parâmetros pré-estabelecidos e sinalização imediata das ineficiências aos seus superiores, visando o controle de perda de insumos e eficiência do processo;</p><p>Monitorar, realizar e favorecer a ocorrência de manutenções preventivas e corretivas em equipamentos da área e em softwares específicos de forma a garantir a operacionalidade destes;</p><p>Prestar suporte à equipe técnica da área, através de orientações, condução de treinamento técnicos em todos os procedimentos e demais questões ligadas ao manuseio de equipamentos e resultados, visando garantir padronização e qualidade nos resultados finais;</p><p>Zelar pela conservação de equipamentos, instrumentos, bens patrimoniais e materiais de consumo colocados à sua disposição, solicitando manutenções, reparos e reposição junto a quem de competência, sempre que necessário.</p><p><br></p><p><strong>Buscamos alguém que apresente: </strong></p><p>Superior Completo em Farmácia, Química, Biologia, Biomedicina ou Engenharia Química.</p><p>Experiência mínima de 6 meses em Área Técnica.</p><p><br></p><p>Antes da inscrição na vaga, é importante verificar se você atende aos requisitos e se conecta com nosso propósito.</p><p><br></p><p><strong>O que esperamos? </strong></p><p>•\tNossa essência inspira nosso dia a dia, por isso, buscamos alguém alinhado ao propósito de cuidar das pessoas;</p><p>•\tAlguém que zele por cuidado e empatia durante toda a jornada, trazendo o cliente sempre para o centro das ações, buscando a excelência;</p><p>•\tDesejo de aprender, valorização do trabalho em equipe e troca de conhecimento.</p><p><br></p><p><strong>Modelo de Trabalho:</strong></p><p>﻿Local: NTA CSV - Vitória</p><p>Esse profissional atuará no modelo Presencial</p><p>Carga horária mensal: 220 horas</p><p><strong>Horários: Plantão - 12 x 36 Noturno - 19:00 às 07:00</strong></p><p><br></p><p><strong>O que oferecemos: </strong></p><p>🩺 Assistência Médica;</p><p>🦷 Assistência odontológica;</p><p>🛒 Vale alimentação;</p><p>🍽️ Vale refeição;</p><p>🏫 Auxílio creche;</p><p>🏥 Seguro de vida;</p><p>💪 Wellhub;</p><p>💰 Participação nos Lucros;</p><p>📄 Previdência privada;</p><p>📚 Parcerias Educacionais para descontos em cursos em diversas Instituições de Ensino;</p><p>🧬 Benefícios exclusivos para promover a saúde e bem-estar das colaboradoras, colaboradores e dependentes.</p><p><br></p><p>Trabalhamos para promover a cultura inclusiva que busca a equidade e valoriza as diferenças.</p><p>Para conhecer mais sobre o Grupo Fleury, acesse o site: http://www.grupofleury.com.br</p>\n      </div>",
+        "URL da Vaga": "https://www.vagas.com.br/vagas/v2675680/especialista-laboratorial"
+    }
+][
+
 ]
