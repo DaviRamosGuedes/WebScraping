@@ -10,10 +10,10 @@ from selenium.webdriver.support import expected_conditions as EC
 
 class VagasSpider(scrapy.Spider):
     name = 'vagas'
-    allowed_domains = ['vagas.com.br', 'infojobs.com.br', 'solides.com.br', 'trabalhaes.com.br']
+    allowed_domains = ['vagas.com.br', 'trabalhaes.com.br']
     start_urls = [
         'https://www.vagas.com.br/vagas-de-vitoria-es',
-        'https://www.trabalhaes.com.br/vagas-em-vitoria-es/'  # Adicionando a URL do Trabalhaes
+        'https://www.trabalhaes.com.br/vagas-em-vitoria-es/'
     ]
 
     palavras_chave_ti = [
