@@ -106,3 +106,7 @@ DOWNLOAD_DELAY = 2  # Atraso de 2 segundos entre as requisições
 custom_settings = {
     "REDIRECT_ENABLED": False,
 }
+
+FEED_FORMAT = 'json'
+FEED_URI = 'vagas.json'
+
